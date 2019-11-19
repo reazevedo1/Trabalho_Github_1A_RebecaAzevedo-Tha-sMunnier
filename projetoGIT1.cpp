@@ -1,5 +1,6 @@
 #include <iostream>
-
+#include <string>
+using namespace std;
 
 /*
 	Conta todas as letras 'letra' contidas em 'texto'
@@ -64,7 +65,7 @@ int main(){
 	cout<<"letra2: \n";
 	cin>>b;
 	tex=substituirLetra(a, b, t);
-	cout<<tex<<;
+	cout<<tex<<"\n\n\n";
 
 
 
